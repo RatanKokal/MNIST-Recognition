@@ -5,6 +5,8 @@ Used sigmoid function as a activation function, and hidden layer of size 32 to d
 
 Implemented a 3 layer neural network(2 hidden layers) to improve the accuracy for Alphabet Recognition, pushing it to above 96%
 
+Implement a tensorflow based CNN model to push the accuracy above 98%
+
 Resources I reffered:
 - [For the mathemical aspect of Machine Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - [For visualisation](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&feature=shared)
